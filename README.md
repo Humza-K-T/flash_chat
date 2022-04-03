@@ -1,6 +1,7 @@
 # flash_chat
 
-A chat app built using flutter and amazon firestone
+A chat app built using flutter and firebase
+
 
 ## Getting Started
 
